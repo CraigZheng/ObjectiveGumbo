@@ -7,7 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import <gumbo.h>
+#import "gumbo.h"
 
 @interface OGUtility : NSObject
 
